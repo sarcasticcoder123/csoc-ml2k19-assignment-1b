@@ -20,7 +20,9 @@ If you are uncomfortable with command line, you can use Git GUI tool GitKraken. 
 4. Complete the assignment.
 5. Stage all changes (button on the right.)
 6. Fill in the commit message and press commit.
-7. Push the repo (button is on the top). 
+7. Push the repo (button is on the top)
+
+Finally fill the [google form](https://forms.gle/jyseWHBKwxhv5D3BA)
 
 
 ## Assignment_1_b- Pandas & Matplotlib
